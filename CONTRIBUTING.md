@@ -26,7 +26,7 @@ Having a running version of FarmData2 is a prerequisite for many of the forms of
 
 #### Bug Reports ####
 
-If you are are a user of FarmData2 and discover something that doesn't seem to be working correctly you can:
+If you are a user of FarmData2 and discover something that doesn't seem to be working correctly you can:
 
   * Reach out to the community on the [Zulip Developer Stream](https://farmdata2.zulipchat.com/#narrow/stream/271292-developers) to discuss what you have found and how to proceed.
   * Search the [Issue Tracker] to see if the bug has been reported already.
@@ -49,18 +49,18 @@ If you are are a user of FarmData2 and have a new feature you would like to see 
 The project [Issue Tracker] contains tickets describing known issues with the project.  The tickets for known issues are tagged with the label "bug".  Each reported bug will have a detailed description of how the bug can be observed. Gardening includes activities such as:
 
   * Verifying or clarifying these descriptions.
-  * Enhance the report by providing additional information about the bug (e.g. platforms on which is is or is not seen).
+  * Enhance the report by providing additional information about the bug (e.g. platforms on which it is or is not seen).
   * Confirming that bug does (or does not) exist in the current version.
 
 To participate by Gardening visit the [Issue Tracker] and find something of interest to verify, enhance or clarify.  Try it out in your running version of FarmData2 and add a comment to the ticket with what you find.
 
 #### Documentation ####
 
-Update to any of the FarmData2 documentation are welcome.  If you find typos, unclear or missing steps, poorly worded explanations, or have any other suggestions for how the documentation could be improved use the [workflow](#workflow) described below to create a pull request for your suggested changes.
+Updates to any of the FarmData2 documentation are welcome.  If you find typos, unclear or missing steps, poorly worded explanations, or have any other suggestions for how the documentation could be improved use the [workflow](#workflow) described below to create a pull request for your suggested changes.
 
 #### Bug Fix / Feature Implementation ####
 
-Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmdData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
+Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
 
 #### Other Thoughts ####
 
@@ -82,7 +82,7 @@ As a reference, the basic steps for working with GitHub Flow are as follows:
   * Fork the _upstream_ repository to your GitHub (the _origin_).
   * [Clone] the _origin_ repository to your local machine.
   * Set the  _upstream_ remote for your local repository to point to the _upstream_ repository.
-  * Create a _feature branch_ from the _main_ branch your local machine.
+  * Create a _feature branch_ from the _main_ branch on your local machine.
   * Make the edits to the documentation or the code in your _feature branch_.
   * Commit your edits.
     * If the contribution reflects the work of multiple people, ensure that everyone receives attribution by [Creating a commit with multiple authors].
