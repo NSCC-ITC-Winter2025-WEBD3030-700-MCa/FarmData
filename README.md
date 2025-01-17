@@ -31,7 +31,7 @@ FarmData2 is powered by the farmOS open source project.
 Support and assistance with FarmData2 development has been received from [The Non-Profit FOSS Institute](https://npfi.org/).
 
 The development of FarmData2 has received partial support from:
-* The GNOME Community Engagement Challenge:
+* [GNOME Community Engagement Challenge](https://www.gnome.org/challenge/) :
   * [![Phase 1 Badge](media/GNOME-CEC-p1-small.png)](media/GNOME-CEC-p1.png)[![Phase 2 Badge](media/GNOME-CEC-p2-small.png)](media/GNOME-CEC-p2.png)    
 * The National Science Foundation (DUE-2013069) - Collaborative Research: Broadening Participation in Computing through Authentic, Collaborative Engagement with Computing for the Greater Good.
 * [Zulip](https://zulip.com) provides sponsored hosting for [FarmData2 community discussions](https://farmdata2.zulipchat.com/#narrow/stream/270883-general).
@@ -41,5 +41,3 @@ The development of FarmData2 has received partial support from:
 ![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") All textual materials in the FarmData2 project are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code in the FarmData2 project are licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
-
-[GNOME Community Engagement Challenge](https://www.gnome.org/challenge/) 
